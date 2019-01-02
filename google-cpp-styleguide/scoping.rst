@@ -8,7 +8,7 @@
 
 .. tip::
 
-    鼓励在 ``.cc`` 文件内使用匿名命名空间或 ``static`` 声明. 使用具名的命名空间时, 其名称可基于项目名或相对路径. 禁止使用 using 指示（using-directive）。禁止使用内联命名空间（inline namespace）。
+    鼓励在 ``.cc`` 文件内使用匿名命名空间或 ``static`` 声明。使用具名的命名空间时, 其名称可基于项目名或相对路径。禁止使用 using 指示（using-directive）。禁止使用内联命名空间（inline namespace）。
 
 **定义:**
 
